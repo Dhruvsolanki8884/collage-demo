@@ -1,4 +1,4 @@
 # collage-demo
 this is my first git repository
 <br>
-Author-Dhruv Solanki
+Author - Dhruv (solanki dhaval) 
